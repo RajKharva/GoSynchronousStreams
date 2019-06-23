@@ -1,0 +1,28 @@
+Jun 23 15:10:23
+This
+
+
+Jun 23 15:10:23
+Is
+
+
+Jun 23 15:10:23
+An
+
+
+Jun 23 15:10:23
+Asynchronous
+
+
+Jun 23 15:10:23
+Message
+
+
+Jun 23 15:10:23
+From
+
+
+Jun 23 15:10:23
+Kafka
+
+
