@@ -1,2 +1,2 @@
 # GoSynchronousStreams
-Synchronously read/write messages to/from Kafka
+Synchronously write/read messages to/from Kafka
